@@ -38,7 +38,6 @@ This Jupyter notebook creates a medical diagnostic form assistant that transcrib
 - Ensure you have sufficient GPU resources to run the models.
 - Processing time may vary based on audio length and system capabilities.
 - This tool is for demonstration purposes and should not replace professional medical advice.
-look at my readMe.md file
 
 
 
