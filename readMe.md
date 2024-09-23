@@ -70,4 +70,7 @@ The resulting model is used in the user interface for extracting medical entitie
 9. Merge the fine-tuned adapter with the base model.
 10. Save the final model and upload it to Hugging Face for easy access in the main application.
 
+here's the link to the dataset: https://huggingface.co/datasets/har1/MTS_Dialogue-Clinical_Note
+here's the link to the fine-tuned model: https://huggingface.co/Atereoyin/Llama3_finetuned_for_medical_entity_extraction
+
 Note: This process requires significant computational resources and may take several hours to complete, depending on your hardware configuration.
