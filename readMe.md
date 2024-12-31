@@ -72,5 +72,6 @@ The resulting model is used in the user interface for extracting medical entitie
 
 here's the link to the dataset: https://huggingface.co/datasets/har1/MTS_Dialogue-Clinical_Note
 here's the link to the fine-tuned model: https://huggingface.co/Atereoyin/Llama3_finetuned_for_medical_entity_extraction
+here's the link to the vidoe demo of the appliocation: https://www.loom.com/share/a83e621b05e14a62b8a6232b8858a77b?sid=148359ca-894b-409c-8a1d-b92482479e16
 
 Note: This process requires significant computational resources and may take several hours to complete, depending on your hardware configuration.
